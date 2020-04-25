@@ -1,4 +1,5 @@
-# sort_net
+sort_net
+########
 
 A simple module for building bi-directional `sorting networks`_.
 There are only two basic components: wire and comparator.
